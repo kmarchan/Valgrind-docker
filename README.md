@@ -2,6 +2,7 @@
 Docker container for valgrind to check for leaks in c projects at We Think Code. 
 
 ** To Run the dockerfile you will need docker **
+ 
  install brew 
   `sh -c "$(curl -fsSL https://raw.githubusercontent.com/Tolsadus/42homebrewfix/master/install.sh)"`
  
