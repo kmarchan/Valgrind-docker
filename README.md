@@ -10,7 +10,7 @@ Docker container for valgrind to check for leaks in c projects at We Think Code.
 ` brew install docker`
 ` brew install docker-machine`
 
-docker machine is needed because MAC you will need to install the Oracle VM Virtual box. This will create a virtual machine in which to run your docker container. 
+docker machine is needed because MAC you will need to install the Oracle VM Virtual box (which is availabe through the managed software centre). This will create a virtual machine in which to run your docker container. 
  `docker-machine create --driver virtualbox Char`
  
  and build the container
