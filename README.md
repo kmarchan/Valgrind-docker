@@ -1,4 +1,5 @@
-# Valgrind-docker
+![image](https://user-images.githubusercontent.com/36439765/62004113-3869b680-b121-11e9-9e88-83c522c759aa.png)
+
 Docker container for valgrind to check for leaks in c projects at We Think Code. 
 
 ** To Run the dockerfile you will need docker **
